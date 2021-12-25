@@ -1,5 +1,5 @@
 ## :zap:​ 运行环境
-jdk 1.8
+jdk 1.8</br>
 java3d 1-5-1
 
 
@@ -9,3 +9,12 @@ java3d 1-5-1
 作品的身体采用了纹理，导入了北京残奥会的会徽，有纪念意义。纹理图片为全白，为了不使作品看起来违和，使用3D画图工具在其边缘上了渐变色，使作品看起来更真实。</br>
 
 ## :zap:​ 作品展示
+
+### 正面
+![p1](https://github.com/CodeSlogan/shueyrhon/blob/main/screenshots/shery1.png)
+---
+### 侧面
+![p2](https://github.com/CodeSlogan/shueyrhon/blob/main/screenshots/shery2.png)
+---
+### 背面
+![p3](https://github.com/CodeSlogan/shueyrhon/blob/main/screenshots/shery3.png)
