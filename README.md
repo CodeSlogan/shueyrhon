@@ -11,10 +11,14 @@ java3d 1-5-1
 ## :zap:​ 作品展示
 
 ### 正面
-![p1](https://github.com/CodeSlogan/shueyrhon/blob/main/screenshots/shery1.png)
+<img src="https://github.com/CodeSlogan/shueyrhon/blob/main/screenshots/shery1.png" width="375">
+
 ---
+
 ### 侧面
-![p2](https://github.com/CodeSlogan/shueyrhon/blob/main/screenshots/shery2.png)
+<img src="https://github.com/CodeSlogan/shueyrhon/blob/main/screenshots/shery2.png" width="375">
+
 ---
+
 ### 背面
-![p3](https://github.com/CodeSlogan/shueyrhon/blob/main/screenshots/shery3.png)
+<img src="https://github.com/CodeSlogan/shueyrhon/blob/main/screenshots/shery3.png" width="375">
